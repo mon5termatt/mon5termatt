@@ -24,11 +24,5 @@ Forks I actually touched instead of letting them rot. Not always spite. Sometime
 | --- | --- |
 | [Custom-K-Touch](https://github.com/mon5termatt/Custom-K-Touch) | Klipper-first rewrite of a Prusa Connect touchscreen UI. |
 | [deemon-redux](https://github.com/mon5termatt/deemon-redux) | Artist release monitor. Upstream bugs, I kept using it anyway. |
-| [Vocard](https://github.com/mon5termatt/Vocard) | Music bot with Navidrome playback and GHCR images. |
-| [muse](https://github.com/mon5termatt/muse) | Same idea on the midwestern music bot that doesn't suck. |
-| [AFC-ACE-Integration](https://github.com/mon5termatt/AFC-ACE-Integration) | ACE Pro support that actually installs. |
-| [obico-cosmos](https://github.com/mon5termatt/obico-cosmos) | Obico companion layout for OpenCentauri COSMOS. |
-| [stl2gif](https://github.com/mon5termatt/stl2gif) | STL/3MF isometric spin GIFs, with more knobs. |
-| [medicat-website](https://github.com/mon5termatt/medicat-website) | The Medicat site. Forked, then I just… kept shipping it. |
 
 ![nimona2](https://github.com/user-attachments/assets/e4453c7d-1c07-4ee5-bf21-632ccc0c8424)
