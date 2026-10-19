@@ -1,8 +1,20 @@
-<img align="right" width="140" alt="nimona" src="https://github.com/user-attachments/assets/e4453c7d-1c07-4ee5-bf21-632ccc0c8424">
+<img align="right" width="180" alt="nimona" src="https://github.com/user-attachments/assets/e4453c7d-1c07-4ee5-bf21-632ccc0c8424">
 
-Visit my [Linkstack](https://linkstack.org/) @ [MON5TERMATT.COM](https://mon5termatt.com)
+<p>
+  <a href="https://mon5termatt.com"><img alt="mon5termatt.com" src="https://img.shields.io/badge/mon5termatt.com-1F6FEB?style=for-the-badge"></a>
+  <a href="https://pyrodude.com"><img alt="pyrodude.com" src="https://img.shields.io/badge/pyrodude.com-E85D04?style=for-the-badge"></a>
+  <a href="https://medicatusb.com"><img alt="medicatusb.com" src="https://img.shields.io/badge/medicatusb.com-DC2626?style=for-the-badge"></a>
+  <a href="https://thednd.club"><img alt="thednd.club" src="https://img.shields.io/badge/thednd.club-7C3AED?style=for-the-badge"></a>
+</p>
 
-Owner of dumb sites such as [pigeonsp.in](https://pigeonsp.in)
+Dumb sites
+
+<p>
+  <a href="https://pigeonsp.in"><img alt="pigeonsp.in" src="https://img.shields.io/badge/pigeonsp.in-F59E0B?style=for-the-badge"></a>
+  <a href="https://imalreadyona.quest"><img alt="imalreadyona.quest" src="https://img.shields.io/badge/imalreadyona.quest-16A34A?style=for-the-badge"></a>
+  <a href="https://buystroberockets.com"><img alt="buystroberockets.com" src="https://img.shields.io/badge/buystroberockets.com-DB2777?style=for-the-badge"></a>
+  <a href="https://overloadedfireworks.com"><img alt="overloadedfireworks.com" src="https://img.shields.io/badge/overloadedfireworks.com-EA580C?style=for-the-badge"></a>
+</p>
 
 <br clear="all">
 
