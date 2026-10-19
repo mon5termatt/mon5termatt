@@ -1,6 +1,10 @@
+<img align="right" width="140" alt="nimona" src="https://github.com/user-attachments/assets/e4453c7d-1c07-4ee5-bf21-632ccc0c8424">
+
 Visit my [Linkstack](https://linkstack.org/) @ [MON5TERMATT.COM](https://mon5termatt.com)
 
 Owner of dumb sites such as [pigeonsp.in](https://pigeonsp.in)
+
+<br clear="all">
 
 ## Main repos
 
@@ -21,5 +25,3 @@ Repos I grabbed because the original was abandoned, paywalled, or wouldn't take 
 | [OpnForm](https://github.com/mon5termatt/OpnForm) | Self-hosted form builder minus the license phone-home. |
 | [ebay_total_cost_display](https://github.com/mon5termatt/ebay_total_cost_display) | Dead eBay "price + shipping" extension. Dragged it onto Manifest V3 so it still works. |
 | [SV08-Community](https://github.com/mon5termatt/SV08-Community) | Sovol said they wouldn't put community changes on their GitHub. I did. |
-
-![nimona2](https://github.com/user-attachments/assets/e4453c7d-1c07-4ee5-bf21-632ccc0c8424)
